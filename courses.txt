@@ -1,0 +1,482 @@
+BTC01 - Physics of Materials
+BTC02 - Advance Chemistry
+BTC03 - Biostatistics
+BTC04 - Introduction to Biotechnology
+BTC05 - Biochemistry
+BTC06 - Microbiology
+BTC07 - Cell Biology
+BTC08 - Data Structure And  Algorithms
+BTC09 - Chemical Engg. Principles
+BTC10 - Methods & Instrumentation in Biotechnology
+BTC11 - Molecular Biology
+BTC12 - Immunology
+BTC13 - Database  Management  Systems
+BTC14 - Genetics
+BTC15 - Recombinant DNA Technology
+BTC16 - Structural Biology
+BTC17 - Fundamentals of Biochemical Engineering
+BTC18 - Enzymology
+BTC19 - Bioprocess Technology
+BTC20 - Plant & Animal Biotechnology
+BTC21 - Downstream Processing
+BTC22 - Training
+BTC23 - Project - I
+BTC24 - Project - II
+BTD01 - Biology of Infectious  Disesases
+BTD02 - Microbiome and Metagenome
+BTD03 - Nanobiotechnology
+BTD04 - Cell & Tissue Engineering
+BTD05 - Molecular & Cellular Diagnostics
+BTD06 - Anatomy and Physiology
+BTD07 - Fuel Cell Technology
+BTD08 - Computational Biology
+BTD09 - Environmental  Biotechnology
+BTD10 - Bioremediation & Waste Management
+BTD31 - Neurobiology
+BTD32 - Chemical Reaction Engineering
+BTD33 - Bioelectronics
+BTD34 - Pharmaceutical Chemistry
+BTD35 - Drug Design, Development & Delivery
+BTD36 - Metagenomics and Metabolomics
+BTD37 - Biosafety & Hazard Management
+BTD38 - Bioenergy Fundamentals
+BTD39 - Epigenetics
+BTD40 - Biomechanics
+BTD41 - Systems Biology
+BTD42 - Bioprocess Plant Design
+CEC01 - Discrete Structures
+CEC02 - Data Structures
+CEC03 - Digital Logic Design
+CEC04 - Analog and Digital Communication
+CEC05 - Design and Analysis of Algorithms
+CEC06 - Database Management Systems
+CEC07 - Object Orientation
+CEC08 - Computer Architecture and Organization
+CEC09 - Analog Electronics
+CEC10 - Micro- processors
+CEC11 - Software Engineering
+CEC12 - Computer Graphics
+CEC13 - Computer Networking
+CEC14 - Operating Systems
+CEC15 - Theory of Computation
+CEC16 - High Performance Computing
+CEC17 - Compiler Construction
+CEC18 - Modeling and Simulation
+CEC19 - Computer Control Systems
+CEC20 - IT Law and Ethics
+CEC21 - Open Source Technologies
+CEC22 - Training
+CEC23 - Project-I
+CEC24 - Project-II
+CED01 - Embedded Systems Design
+CED02 - Big Data  and Analytics
+CED03 - Software Testing
+CED04 - Mobile Ad-hoc Networks
+CED05 - Advanced Data Structures
+CED06 - Natural Language Processing
+CED07 - Information and Network Security
+CED08 - Mobile Computing
+CED09 - Advanced Networks
+CED10 - Logic Programming
+CED11 - Internet and Web Technology
+CED12 - Emerging Programming  Paradigms
+CED13 - Wireless Technologies
+CED14 - Advanced algorithms
+CED15 - Fault Tolerant Computing
+CED16 - Artificial Intelligence
+CED17 - Machine Learning
+CED18 - Computer Vision
+CED19 - Semantic Web
+CED20 - Advanced databases
+CED21 - Internet of Things
+CED22 - Software Quality
+CED23 - Requirements  Engineering
+CED24 - Digital watermarking and  Steganography
+CED25 - Service Oriented Architectures
+CED26 - Real Time Systems
+CED27 - Ethical  Hacking
+CED28 - Digital Forensic
+CED29 - CAD of VLSI
+CED30 - Middleware technologies
+CED31 - Multimedia Applications
+CED32 - Human Computer Interfacing
+CED33 - Emerging Applications of Computing
+CED34 - Cryptography
+CED35 - Information Theory and coding
+CED36 - Rough Set Theory
+CED37 - Cloud Computing
+CED38 - Soft Computing
+CED39 - Distributed Computing
+CED40 - Design and Architectural Patterns
+CED41 - Rule based Computing
+ECC01 - Electronic Engineering Materials
+ECC02 - Electronics I
+ECC03 - Digital Circuits and Systems 
+ECC04 - Electrical Machines
+ECC05 - Mathematics III
+ECC06 - Electronics II
+ECC07 - Network Analysis and Synthesis
+ECC08 - Signals and Systems
+ECC09 - Electromagnetic Field Theory
+ECC10 - Linear Integrated Circuits
+ECC11 - Data Structures
+ECC12 - Transmission lines and  Waveguides
+ECC13 - Probability Theory and Communication
+ECC14 - Control Systems
+ECC15 - Digital Signal Processing
+ECC16 - Digital Communicati on
+ECC17 - Microprocess or and its Applications
+ECC18 - Antenna and Wave  Propagation
+ECC19 - Microwave Engineering
+ECC20 - VLSI
+ECC21 - Computer Networks
+ECC22 - Training
+ECC23 - Project-I
+ECC24 - Project-II
+ECD01 - Microwave Engineering
+ECD02 - Speech Processing
+ECD03 - Image Processing
+ECD04 - Wireless Communication
+ECD05 - BICMOS AIC
+ECD06 - Low Power VLSI Design
+ECD07 - Analog filter design
+ECD08 - Embedded System Design
+ECD09 - Computer Architecture
+ECD10 - Microstrip Circuit Design
+ECD11 - Advanced Antenna theory
+ECD12 - RF and Microwave
+ECD13 - Advanced DSP
+ECD14 - Digital System design  using VHDL/Verilog
+ECD15 - Video Processing
+ECD16 - Radar Signal Processing
+ECD17 - Wavelets and  Applications
+ECD18 - Cryptography
+ECD19 - Pattern Recognition
+ECD20 - VLSI Digital Signal  Processing
+ECD21 - Selected Topics in SP
+ECD22 - Detection and Estimation Theory
+ECD23 - Optical fiber networks
+ECD24 - Selected topics in Communication  Design
+ECD25 - Information theory
+ECD26 - Satellite communication
+ECD27 - Optical Wireless Communication
+ECD28 - MIMO Communication
+ECD29 - Coding Theory
+ECD30 - Telecommunication  Switching
+ECD31 - Wireless Sensor  Networks
+ECD32 - Cognitive Radio
+ECD33 - Green Communication
+ECD34 - Analog CMOS Design
+ECD35 - Mixed Signal Design
+ECD36 - IC Testing and  Characterization
+ECD37 - Electronic Design  Automation
+ECD38 - Optimization of CMOS  Integrated Circuits  Optimization of CMOS
+ECD39 - Selected topics in Analog Signal Processing
+ECD40 - VLSI Technology & Design
+ECD41 - System in Chip
+ECD42 - Deep sub-micron CMOS  IC Design
+ECD43 - Semiconductor memory Design
+ECD44 - Device modeling and circuit simulation
+ECD45 - ASIC Design
+ECD46 - Pulse Digital Circuits
+ECD47 - Switching Theory and Automata
+ECD48 - Robotics and  Automation
+ECD49 - Computational  Electromagnetics
+ECD50 - Radar and Navigation
+ECD51 - Phased Array Antennas
+ECD52 - Advanced Microwave Engineering
+ECD53 - Electromagnetic  Interference and  Compatibility
+ECD54 - RF MEMS and their  Applications
+ECD55 - Quantum Field Theory
+ECD56 - Selected Topics in  Microwave Engineering
+EO001 - Technical Communication
+EO002 - Disaster Management
+EO003 - Basics of Financial  Management
+EO004 - Basics of Human Resources Management
+EO005 - Project Management
+EO006 - Basics of Corporate Law
+EO007 - Biological computing
+EO008 - Basic of social sciences
+EO009 - Entrepreneurship
+EO010 - Social work
+EO011 - Intellectual Property and Patenting
+EO012 - Supply Chain  Management-Planning  and Logistics
+EO013 - Organization Development
+EO014 - Industrial Organization  and Managerial  Economics
+EO015 - Global Strategies and Technology
+EO016 - Engineering System  analysis and Design
+EO017 - Biology for Engineers
+EO018 - Energy, Environment and Society
+EO019 - Public Policy and Governance
+EO020 - Mathematics –IV, Numerical Methods
+EO021 - Mathematics –V, Mathematical Statistics
+EO022 - Mathematics – VI, Abstract and Linear Algebra
+EO023 - Mathematics – VII, Optimization Techniques
+EO024 - Mathematics – VIII, Introduction to Mathematical Software and Programming Languages
+EO025 - Mathematics – IX, Mathematical Finance
+EO026 - Quantum Electronics
+EO027 - Laser Systems and Applications
+EO028 - Optoelectronics and Photonics
+EO029 - Electromagnetic Theory and Waveguide
+EO030 - Polymer Science and Technology
+EO031 - Semiconductor Physics and Devices
+EO032 - Elements of Fibre Optics
+EO033 - Material  Physics
+EO034 - Advanced Electromagnetic Theory and Relativity
+EO035 - FibreandIntegrated Optics
+EO036 - CondensedMatter Physics
+EO037 - Microwave
+EO038 - Fundamentals of Instrumentation and experimental techniques in Physics
+EO039 - Lasers and Photonics
+FC001 - Mathematics-I
+FC002 - Computer Programming
+FC003 - Electrical & Electronics Engineering
+FC004 - Physics
+FC005 - English-I
+FC006 - Mathematics-II
+FC007 - English – II
+FE001 - Sports-I
+FE002 - Sports-II
+FE003 - National  Scheme (NSS)
+FE004 - National  (NCC)
+FE005 - Corporate Social Responsibility
+FE006 - Environmental  Sciences
+FE007 - Environment development and Society
+FE008 - Spoken Skills in English
+FE009 - Financial Literacy
+FE010 - Introduction to Indian society
+FE011 - Soft Skills and Personality Development
+FE012 - Business Communication and Presentation Skills
+FE013 - Theatre
+FE014 - Dance
+FE015 - Yoga
+FE016 - Digital Film Making
+FE017 - Workshop (Electrical and Mechanical)
+FE018 - Music
+FE019 - Sociology of development
+FE020 - Universal Human Values 1: Self and Family
+FE021 - Universal Human Values  2: Self, Society and  Nature
+ICC01 - Physics of Materials
+ICC02 - APPLIED MECHANICS
+ICC03 - SIGNAL AND SYSTEMS
+ICC04 - Power Apparatus
+ICC05 - Electronic Instrumentation
+ICC06 - Electronics
+ICC07 - Engineering Graphics
+ICC08 - Data Structures
+ICC09 - Chemistry
+ICC10 - Mathematics-III
+ICC11 - Control System-I
+ICC12 - Transducer & measurement
+ICC13 - INDUSTRIAL  ELECTRONICS
+ICC14 - Digital Circuits and Systems
+ICC15 - Microprocessor and Microcontroller
+ICC16 - control and estimation
+ICC17 - Analog and Digital Communication
+ICC18 - Control System-II
+ICC19 - Industrial Instrumenta tion
+ICC20 - Robotics
+ICC21 - Digital Signal Processing
+ICC22 - Training
+ICC23 - Project-I
+ICC24 - Project-II
+ICC40 - Electric Drive
+ICC47 - ROBUST CONTROL
+ICD01 - Advanced power apparatus
+ICD02 - Advanced power electronics
+ICD03 - AI techniques and application
+ICD04 - Applied cryptography
+ICD05 - Bioinformatics
+ICD06 - Biomedical signal processing
+ICD07 - Biometrics
+ICD08 - Computer network
+ICD09 - Condition monitoring of power apparatus
+ICD10 - Design of hydro power system
+ICD11 - Biomedical  Instrumentation
+ICD12 - Discrete time systems
+ICD13 - DRIVE SYSTEM IN ELECTRIC  TRACTION
+ICD14 - DSP controlled electric drives
+ICD15 - Wind and solar based electrical systems
+ICD16 - Electric drives for hybrid vehicles
+ICD17 - Energy auditing
+ICD18 - Evolutionary computations
+ICD19 - FAULT DETECTION AND  DIAGNOSIS
+ICD20 - High voltage engineering
+ICD21 - Instrumentation in electric drives
+ICD22 - Intelligent Control
+ICD23 - Large Scale Systems
+ICD24 - Logic and distributed control system
+ICD25 - Mechatronics
+ICD26 - MEMS
+ICD27 - Micro system design
+ICD28 - Modeling and analysis of electrical m/c
+ICD29 - Non linear Control
+ICD30 - Optimization techniques
+ICD31 - PARAMETER ESTIMATION  AND SYSTEM  IDENTIFICATION
+ICD32 - Physiological control systems
+ICD33 - Power apparatus design
+ICD34 - Power converters
+ICD35 - Power quality and harmonics
+ICD36 - Principles of cryptography
+ICD37 - Advanced Process Control
+ICD38 - Random processes in control and estimation
+ICD39 - Reactive power control and FACTS devices
+ICD40 - Electric Drives
+ICD41 - Robust control
+ICD42 - Selected topics in control
+ICD43 - Sensor networks
+ICD44 - Special machines
+ICD45 - Utilization of electrical energy
+ICD46 - Virtual instrumentation
+ICD47 - Power Electronics
+ICTim - COURSE NAME NOT AVAILABLE
+ITC01 - LTP Allocation
+ITC02 - Object Oriented Techniques
+ITC03 - Analog and Digital Communicatio n
+ITC04 - Discrete Structure
+ITC05 - Mathematics-III
+ITC06 - Data Structure and Algorithm
+ITC07 - Digital Circuits and Systems
+ITC08 - Database Management System
+ITC09 - Computer Graphics
+ITC10 - Probability and Stochastic Processes
+ITC11 - Operating Systems
+ITC12 - Computer System Architecture
+ITC13 - Computer Networks
+ITC14 - Software Engineering
+ITC15 - Multimedia & Applications
+ITC16 - Theory of Computation
+ITC17 - Design and Analysis of Algorithm
+ITC18 - Linux/Unix Lab
+ITC19 - Internet and Web Engineering
+ITC20 - Compiler and Translator Design
+ITC21 - Modeling and Simulation
+ITC22 - Training(6 -8 weeks)
+ITC23 - Project-I
+ITC24 - Project-II
+ITD01 - Distributed System and Computing
+ITD02 - Microprocessors and Applications
+ITD03 - Information Security
+ITD04 - Mobile Communication
+ITD05 - Artificial Intelligence
+ITD06 - Software Testing
+ITD07 - Pattern Recognition
+ITD08 - Data ware house and data mining
+ITD09 - Advanced Database Management
+ITD10 - Advanced Computer Networks
+ITD11 - Recent Trends in Information Technology
+ITD12 - Image Processing
+ITD13 - Adhoc Network
+ITD14 - Software Quality and  Assurance
+ITD15 - Software Project  Management
+ITD16 - Computer Vision
+ITD17 - Information Theory and coding
+ITD18 - Soft Computing
+ITD19 - Wireless Communication
+ITD20 - Game Theory
+ITD21 - Operational Research
+ITD22 - E-commerce and E-governance
+ITD23 - Neural Networks
+ITD24 - Genetic Algorithms
+MAC01 - Chemistry
+MAC02 - Engineering Mechanics
+MAC03 - Workshop Technology
+MAC04 - Engineering Graphics
+MAC05 - Machine Drawing
+MAC06 - Manufacturing Processes I
+MAC07 - Mechanical Sciences
+MAC08 - Control System
+MAC09 - Mathematics III
+MAC10 - Kinematics & Dynamics of Machinery
+MAC11 - Mechanics of solids
+MAC12 - LTP Allocation
+MAC13 - Manufacturing Processes II
+MAC14 - Science of Materials
+MAC15 - Machine Tools, CNC and Automation
+MAC16 - Metrology and Quality Control
+MAC17 - Tool Design
+MAC18 - Operations Research
+MAC19 - Geometric Modeling
+MAC20 - Applied Plasticity
+MAC21 - Mechanical Design
+MAC22 - Training
+MAC23 - Project-I
+MAC24 - Product Design
+MAC25 - Modern Methods of Manufacturing
+MAC26 - Project-II
+MAD01 - Value Engineering
+MAD02 - Reliability
+MAD03 - Financial Management
+MAD04 - Total Quality Management
+MAD05 - Industrial Control Systems
+MAD06 - Embedded Systems
+MAD07 - Ergonomics
+MAD08 - Management of Manufacturing System
+MAD09 - Flexible Manufacturing Systems
+MAD10 - Design of Experiments
+MAD11 - Micro Electro Mechanical Systems
+MAD12 - Composite Materials
+MAD13 - Micro/Nano Machining
+MAD14 - Material Management
+MAD21 - Finite Element Methods
+MAD22 - Fracture Mechanics
+MAD23 - Mechanical Vibrations
+MAD24 - Rapid Prototyping and Tooling
+MAD25 - Fluid Systems
+MAD26 - Refrigeration and Air Conditioning
+MAD27 - Mechatronics
+MAD28 - Robotics
+MAD29 - Artificial Intelligence
+MAD30 - Automation in Engineering
+MAD31 - Management Information System Design
+MEC01 - Chemistry
+MEC02 - Engineering  Mechanics
+MEC03 - Workshop  Technology
+MEC04 - Engineering Graphics
+MEC05 - Machine Drawing
+MEC06 - Manufacturing  Processes I
+MEC07 - Mathematics III
+MEC08 - Thermal Engineering
+MEC09 - Science of Materials
+MEC10 - Kinematics &  Dynamics of
+MEC11 - Mechanics of Solids
+MEC12 - Fluid Mechanics
+MEC13 - Manufacturing  Processes II
+MEC14 - Management of  Manufacturing  Systems
+MEC15 - Industrial  Engineering
+MEC16 - Refrigeration & Air-
+MEC17 - Transducers and  Measurements
+MEC18 - Control Systems
+MEC19 - Heat & Mass Transfer
+MEC20 - Fluid Systems
+MEC21 - Machine Element
+MEC22 - Mechanical
+MEC23 - Training
+MEC24 - Project-I
+MEC25 - Product Design
+MEC26 - Project-II
+MED01 - Value Engineering None
+MED02 - Power Plant Practice
+MED03 - Solar Energy
+MED04 - Reliability Engineering
+MED05 - Industrial Quality Control
+MED06 - Design of Experiments
+MED07 - Material Management
+MED08 - Ergonomics
+MED09 - Optimization Techniques
+MED10 - Micro Electro Mechanical  Systems (MEMS)
+MED11 - Composite Materials
+MED12 - Micro/ Nano Machining
+MED13 - Advanced FMS
+MED21 - Automotive  Engineering
+MED22 - Finite Element  Methods
+MED23 - Fracture Mechanics
+MED24 - Gear Technology
+MED25 - Industrial Drives
+MED26 - Rapid Prototyping  and Tooling
+MED27 - Modern Methods of Manufacturing
+MED28 - Industrial Tribology
+MED29 - Automation in Manufacturing
+MED30 - Mechatronics
+MED31 - Artificial Intelligence
+MED32 - Robotics
